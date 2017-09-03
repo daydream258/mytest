@@ -6,7 +6,7 @@ public class TestGit {
 		
 		System.out.println("hello world!");
 		System.out.println("hello java !");
-
+		System.out.println("git3¿ªÊ¼Ð´");
 	}
 
 }
